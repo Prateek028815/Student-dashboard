@@ -1,0 +1,25 @@
+{
+  "name": "Riya",
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "history": ["Algebra", "Geometry"],
+      "nextTopics": ["Trigonometry", "Calculus"],
+      "progress": 75
+    },
+    {
+      "name": "Physics",
+      "history": ["Kinematics", "Motion"],
+      "nextTopics": ["Laws of Motion", "Work & Energy"],
+      "progress": 60
+    },
+    {
+      "name": "English",
+      "history": ["Grammar", "Vocabulary"],
+      "nextTopics": ["Comprehension", "Essay Writing"],
+      "progress": 85
+    }
+  ]
+}
+
+
